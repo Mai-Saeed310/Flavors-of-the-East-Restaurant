@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Chocolate Milkshake",
+        "description": "Milk, vanilla ice cream, chocolate",
+        "price": 20,
+        "image": "/images/drinks/Chocolate_Milkshake.JPEG",
+        "tag": "New"
+    },
+
+    {
+        "id": 2,
+        "name": "Strawberry Milkshake",
+        "description": "Milk, vanilla ice cream, strawberries",
+        "price": 20,
+        "image": "/images/drinks/Strawberry_Milkshake.jpeg"
+    },
+
+    {
+        "id": 3,
+        "name": "Blueberry Mint",
+        "description": "frozen blueberries, fresh mint leaves,, ice cubes, water.",
+        "price": 15,
+        "image": "/images/drinks/Blueberry_Mint.JPEG",
+        "tag": "New"
+
+    },
+
+   {
+        "id": 7,
+        "name": "Iced Latte",
+        "description": "Freshly brewed coffee, ice cubes, milk, and a touch of sugar or vanilla syrup.",
+        "price": 15,
+        "image": "/images/drinks/Iced_Latte.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "Caramel Frappuccino",
+        "description": "A refreshing blend of coffee, milk, and ice, mixed with sweet caramel syrup. Topped with whipped cream and a drizzle of golden caramel sauce for the perfect creamy delight.",
+        "price": 15,
+        "image": "/images/drinks/Caramel_Frappuccino.jpg",
+        "tag": "New"
+
+    },
+
+    {
+        "id": 9,
+        "name": "Sahlab",
+        "description": "Milk, cornstarch, sugar, rose water, cinnamon (for garnish)",
+        "price": 15,
+        "image": "/images/drinks/Sahlab.jpeg"
+    },
+
+    {
+        "id": 4,
+        "name": "Tea",
+        "description": "Tea leaves, fresh mint, sugar, water.",
+        "price": 5,
+        "image": "/images/drinks/tea.jpeg"
+    },
+
+    {
+        "id": 5,
+        "name": "Mango Juice",
+        "description": "Fresh mango, sugar, water.",
+        "price": 15,
+        "image": "/images/drinks/Mango_Juice.jpeg"
+    },
+
+    {
+        "id": 6,
+        "name": "Mint Lemonade",
+        "description": "Lemon juice, fresh mint, sugar, water.",
+        "price": 10,
+        "image": "/images/drinks/Mint_Lemonade.jpeg"
+    },
+
+    {
+        "id": 10,
+        "name": "Espresso",
+        "description": "Espresso coffee beans, water.",
+        "price": 15,
+        "image": "/images/drinks/Espresso.jpeg",
+        "tag": "New"
+    },
+
+    {
+        "id": 12,
+        "name": "Hot Chocolate",
+        "description": "Cocoa powder, sugar, milk, water, vanilla extract, whipped cream (optional), chocolate shavings (optional).",
+        "price": 15,
+        "image": "/images/drinks/Hot_Chocolate.jpeg"
+    },
+
+    {
+        "id": 11,
+        "name": "Water",
+        "description": "Water.",
+        "price": 5,
+        "image": "/images/drinks/water.JPEG"
+    }
+
+]

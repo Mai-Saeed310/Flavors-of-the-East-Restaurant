@@ -1,0 +1,11 @@
+body {
+  font-family: 'Playfair Display', cursive !important;
+}
+
+.brand-black{
+  color: black !important;
+}
+
+body {
+  padding-top: 50px; /* ارتفاع الناف بار (ممكن تزودي/تقللي الرقم حسب الارتفاع) */
+}

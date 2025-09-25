@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Pasta Salad",
+        "description": "Cooked pasta, cherry tomatoes, cucumbers, red onions, bell peppers, olives, herb, olive oil, vinegar, salt",
+        "price": 15,
+        "image": "/images/appetizers/salad.jpeg"
+    },
+
+    {
+        "id": 2,
+        "name": "Fries with Cheese",
+        "description": "Crispy French fries topped with melted cheddar cheese and a sprinkle of parsley.",
+        "price": 10,
+        "image": "/images/appetizers/cheese_fries.jpg",
+        "tag": "New"
+    },
+
+    {
+        "id": 3,
+        "name": "Fattoush",
+        "description": "Toasted pita bread, tomatoes, cucumbers, bell peppers, radishes, onions, lettuce, parsley, mint, lemon juice",
+        "price": 15,
+        "image": "/images/appetizers/Fattoush.JPEG"
+    },
+
+    {
+        "id": 4,
+        "name": "Hummus",
+        "description": "Chickpeas, tahini, lemon juice, garlic, olive oil, salt",
+        "price": 10,
+        "image": "/images/appetizers/Hummus.JPEG"
+    },
+
+    {
+        "id": 5,
+        "name": "Baba Ganoush",
+        "description": "Eggplant, tahini, lemon juice, garlic, olive oil, salt, parsley",
+        "price": 10,
+        "image": "/images/appetizers/Baba_Ganoush.jpeg"
+    },
+
+    {
+        "id": 6,
+        "name": "Cheese Sambousek",
+        "description": "Flour, butter, feta cheese, parsley",
+        "price": 10,
+        "image": "/images/appetizers/Cheese_Sambousek.jpeg",
+        "tag": "New"
+    },
+
+    {
+        "id": 7,
+        "name": "Guacamole",
+        "description": "Rice, chicken, spices, tomatoes, onions, carrots, green peppers",
+        "price": 20,
+        "image": "/images/appetizers/Guacamole.jpeg",
+        "tag": "New"
+    },
+
+    {
+        "id": 8,
+        "name": "Spring Rolls",
+        "description": "Rice paper, shrimp or tofu, vermicelli noodles, carrots, cucumbers, mint, cilantro, peanut sauce",
+        "price": 20,
+        "image": "/images/appetizers/Spring-Rolls.jpeg"
+    },
+
+    {
+        "id": 9,
+        "name": "Kibbeh",
+        "description": "Bulgur, ground meat, onions, spices, pine nuts, salt, oil for frying",
+        "price": 20,
+        "image": "/images/appetizers/Kibbeh.jpeg"
+    },
+
+    {
+        "id": 10,
+        "name": "Halloumi Cheese",
+        "description": "Grilled halloumi cheese slices, slightly crispy outside and soft inside.",
+        "price": 10,
+        "image": "/images/appetizers/Halloumi-Cheese.jpg",
+        "tag": "New"
+    },
+
+    {
+        "id": 11,
+        "name": "Tabbouleh",
+        "description": "Bulgur wheat, tomatoes, cucumbers, parsley, mint, onions, lemon juice, olive oil, salt",
+        "price": 15,
+        "image": "/images/appetizers/Tabbouleh.jpeg"
+    },
+
+    {
+        "id": 12,
+        "name": "Falafel",
+        "description": "Chickpeas, onions, garlic, parsley, coriander, cumin, baking powder, flour, salt, oil for frying",
+        "price": 10,
+        "image": "/images/appetizers/falafel.jpeg"
+
+    }
+
+
+]

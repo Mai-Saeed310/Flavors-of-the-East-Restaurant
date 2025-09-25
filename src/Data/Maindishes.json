@@ -1,0 +1,101 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Beef Stroganoff",
+        "description": "Beef strips, mushrooms, onions, garlic, sour cream, beef broth, mustard",
+        "price": 20,
+        "image": "/images/main/Beef_Stroganoff.JPEG"
+    },
+
+    {
+        "id": 2,
+        "name": "Steak Plate",
+        "description": "Two tender steak piece marinated with olive oil and fresh garlic, grilled to perfection. Served with roasted potatoes that are crispy on the outside and soft on the inside, with a touch of ketchup for extra flavor.",
+        "price": 30,
+        "image": "/images/main/Steak.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Shawarma",
+        "description": "Juicy meat slices marinated with garlic, olive oil, and special spices, slowly roasted to perfection. Served with warm pita bread, pickles, and a drizzle of creamy tahini sauce for an authentic taste",
+        "price": 10,
+        "image": "/images/main/Shawarma.JPEG",
+        "tag": "NEW"
+    },
+
+    {
+        "id": 4,
+        "name": "Dolma",
+        "description": "grape leaves, rice, meat, pine nuts, onions, spices",
+        "price": 30,
+        "image": "images/main/Dolma.JPEG"
+    },
+
+    {
+        "id": 5,
+        "name": "Kofta",
+        "description": "Minced meat, spices",
+        "price": 25,
+        "image": "images/main/Kofta.JPEG"
+    },
+
+    {
+        "id": 6,
+        "name": "Stuffed Grape Leaves",
+        "description": "Delicate grape leaves rolled and stuffed with rice, herbs, and a touch of lemon for a refreshing taste.",
+        "price": "15",
+        "image": "/images/main/stuffed-grape-leaves.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Kabsa",
+        "description": "Rice, chicken, spices, tomatoes, onions, carrots, green peppers",
+        "price": 25,
+        "image": "images/main/Kabsa.JPEG"
+    },
+
+    {
+        "id": 8,
+        "name": "Mansaf",
+        "description": "Lamb, rice, onion, yogurt",
+        "price": 25,
+        "image": "images/main/Mansaf.JPEG",
+        "tag": "NEW"
+    },
+
+    {
+        "id": 9,
+        "name": "Koshari",
+        "description": "Rice, lentils, pasta, fried onions, tomato sauce, chickpeas",
+        "price": 15,
+        "image": "images/main/Koshari.JPEG"
+    },
+    
+    {
+        "id": 10,
+        "name": "Fried Chicken",
+        "description": "Chicken pieces, flour, eggs, breadcrumbs, spices",
+        "price": 30,
+        "image": "images/main/Fried_Chicken.JPEG"
+    },
+
+    {
+        "id": 11,
+        "name":"Mujadara",
+        "description": "Lentils, rice",
+        "price": 20,
+        "image": "images/main/Mujadara.JPEG"
+    },
+
+    {
+        "id": 12,
+        "name": "Stuffed Cabbage Rolls",
+        "description": "Tender cabbage leaves filled with seasoned rice and spices, slow-cooked in a savory tomato sauce.",
+        "price": "15",
+        "image": "/images/main/Stuffed-Cabbage-Rolls.jpg"
+    }
+    
+]
