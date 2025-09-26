@@ -4,7 +4,7 @@
          "name": "Shawarma Combo",
          "description": "Two shawarma sandwiches served with golden fries, two garlic sauces, and pickles.",
          "price": 25,
-         "image": "/images/offers/shawarma-combo.jpg"
+         "image": "images/offers/shawarma-combo.jpg"
      
     },
 
@@ -13,7 +13,7 @@
          "name": "Seafood Special",
          "description": "A mouthwatering seafood feast featuring juicy shrimp, tender crab legs, sweet corn on the cob, soft potatoes, and fresh lemon slices — all seasoned with rich Cajun spices.",
          "price": 55,
-         "image": "/images/offers/Seafood_Special.avif"
+         "image": "images/offers/Seafood_Special.avif"
  
     },
 
@@ -22,7 +22,7 @@
          "name": "Mixed Grill Platter",
          "description": "A premium mix of flame-grilled chicken drumsticks, juicy sausages, tender steak, and smoky zucchini & eggplant. Served with roasted lemon, creamy potato salad, and a fresh green dip.",
          "price": 60,
-         "image": "/images/offers/Grilled_Platter.webp"
+         "image": "images/offers/Grilled_Platter.webp"
     },
 
      {
@@ -30,7 +30,7 @@
          "name": "Stuffed Vine & Cabbage Leaves Box",
          "description": "A luxurious box of tender grape leaves stuffed with aromatic rice and herbs, alongside delicious cabbage rolls filled with a flavorful mix. Garnished with pomegranate seeds and fresh vegetables for a perfect bite.",
          "price": 40,
-         "image": "/images/offers/Grape_Leaves_Combo.jpg"
+         "image": "images/offers/Grape_Leaves_Combo.jpg"
     },
 
      {
@@ -38,7 +38,7 @@
          "name": "Falafel Party Box",
          "description": "12 mini falafel sliders made with crispy golden falafel, fresh vegetables, pickles, and creamy tahini sauce. Comes with extra dipping sauce and a side of tangy pickled veggies",
          "price": 40,
-         "image": "/images/offers/Falafel_Box.jpg"
+         "image": "images/offers/Falafel_Box.jpg"
     },
 
      {
@@ -46,7 +46,7 @@
          "name": "Family Box",
          "description": "Four gourmet burgers: a spicy beef burger with jalapeños, a juicy mushroom Swiss burger, a grilled chicken avocado burger, and a hearty veggie burger.Paired with crispy crinkle-cut fries, golden onion rings, and sweet potato fries",
          "price": 50,
-         "image": "/images/offers/Family_Box3.jpg"
+         "image": "images/offers/Family_Box3.jpg"
    
     },
 
@@ -55,7 +55,7 @@
          "name": "Kebab Platter",
          "description": "A hearty mix of grilled chicken and beef kebabs served over saffron rice, with fresh salad, creamy hummus, warm pita bread, and garlic sauce on the side.",
          "price": 40,
-         "image": "/images/offers/combo-kofta-kebab-platter.jpg"
+         "image": "images/offers/combo-kofta-kebab-platter.jpg"
     },
 
      {
@@ -63,7 +63,7 @@
          "name": "Crispy Combo Meal",
          "description": "6 crispy chicken sandwiches (3 classic & 3 spicy) made with golden fried chicken, fresh lettuce, and soft burger buns. Served with 6 pieces of fried chicken (3 classic & 3 spicy), crispy French fries, creamy coleslaw, and two cocktail sauce dips.",
          "price": 75,
-         "image": "/images/offers/Family_Box.avif"
+         "image": "images/offers/Family_Box.avif"
     },
 
      {
@@ -71,7 +71,7 @@
          "name": "Kabsa with Whole Chicken",
          "description": "A fragrant rice dish cooked with special Arabian spices, topped with a whole tender roasted chicken. Served with nuts and raisins for the perfect traditional feast.",
          "price": 80,
-         "image": "/images/offers/Kabsa.jpg"
+         "image": "images/offers/Kabsa.jpg"
     }
 
 ]

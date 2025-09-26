@@ -29,10 +29,10 @@ export default function NavBar() {
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
                 {/* for guide user to the main page  */}
-                  <a className="nav-link" href="/#home">Home</a>
+                  <a className="nav-link" href="/home">Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/#about">About</a>
+                <a className="nav-link" href="#about">About</a>
               </li>
 
               {/* Dropdown Menu */}
@@ -58,7 +58,7 @@ export default function NavBar() {
                 <Link className="nav-link" to="/offers">Offers</Link>
               </li>
              <li className="nav-item">
-             <a className="nav-link" href="/#contact">Contact</a>
+             <a className="nav-link" href="#contact">Contact</a>
              </li>
             </ul>
           </div>
