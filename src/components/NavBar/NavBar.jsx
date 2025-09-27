@@ -1,7 +1,6 @@
 import React from 'react'
 import './NavBar.css';
 import '@fortawesome/fontawesome-free/js/all.min.js';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { Link } from 'react-router-dom';
 
 export default function NavBar() {
