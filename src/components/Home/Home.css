@@ -1,8 +1,9 @@
 .hero {
   height: 100vh;
-  background: url('images/Logo/RXjpg.jpg') center/cover no-repeat;
+  background: url('/Flavors-of-the-East-Restaurant/images/Logo/RXjpg.jpg') center/cover no-repeat;
   position: relative;
 }
+
 
 .hero .overlay {
   position: absolute;

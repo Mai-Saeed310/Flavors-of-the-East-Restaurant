@@ -1,6 +1,7 @@
 import React from 'react'
 import './NavBar.css';
 import '@fortawesome/fontawesome-free/js/all.min.js';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { Link } from 'react-router-dom';
 
 export default function NavBar() {
@@ -27,9 +28,8 @@ export default function NavBar() {
           {/* روابط القائمة */}
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
-              <li className="nav-item">
-                {/* for guide user to the main page  */}
-                  <a className="nav-link" href="/home">Home</a>
+                 <li className="nav-item">
+                <Link className="nav-link" to="/home">Home</Link>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#about">About</a>
